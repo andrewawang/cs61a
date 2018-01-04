@@ -1,3 +1,12 @@
 [submodule "cs61a_scheme"]
 	path = cs61a_scheme
 	url = https://github.com/andrewawang/cs61a_scheme
+[submodule "cs61a_maps"]
+	path = cs61a_maps
+	url = https://github.com/andrewawang/cs61a_maps
+[submodule "cs61a_hog"]
+	path = cs61a_hog
+	url = https://github.com/andrewawang/cs61a_hog
+[submodule "cs61a_ants"]
+	path = cs61a_ants
+	url = https://github.com/andrewawang/cs61a_ants
